@@ -1,0 +1,30 @@
+body
+{
+    color: white;
+    background-color: bisque;
+}
+
+.heading
+{
+    width: 80%;
+    font-size: 25px;
+}
+
+.objects
+{
+    color: burlywood;
+    font-size: 20px;
+}
+
+#camera , #result
+{
+    border: 2px solid black;
+    width: 350px;
+    height: 300px;
+}
+
+#object_name , #object_accuracy
+{
+    color: coral;
+    font-size: 22px;
+}
